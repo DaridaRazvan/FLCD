@@ -1,0 +1,6 @@
+I could not find "==" in the operators list, or any equality replacement
+a2a is a possible identifier, which I do not believe is ok
+LIDENTIFIER looks like a typo
+Inside the ifstmt, you could put the else between []
+
+This is my review. My name is David Catalin-Ioan from group 932/2. The rest looks really good!
